@@ -1,5 +1,5 @@
 Name: koffice-l10n-hi
-Version: 1.9.98.6
+Version: 1.9.99.0
 Release: %mkrel 1
 Summary: Language files for KOffice Hindi
 Group: System/Internationalization
