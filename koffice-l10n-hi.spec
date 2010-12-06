@@ -1,6 +1,6 @@
 Name: koffice-l10n-hi
 Version: 2.0.82
-Release: %mkrel 1
+Release: %mkrel 2
 Summary: Language files for KOffice Hindi
 Group: System/Internationalization
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
